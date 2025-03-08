@@ -25,35 +25,20 @@
 ## 🚀 Notable Projects  
 
 ### 🔐 **AuditSafe** – Security Audit Management Platform  
-A web application that simplifies security audits with:  
-✔️ **Real-time Data Insights**  
-✔️ **JWT-Based Authentication**  
-✔️ **Centralized Audit Data Visualization**  
-✔️ **User-Friendly UI for Managing Security Audits**  
+A web app that **streamlines security audits** with **real-time data visualization, JWT authentication, and centralized tracking**.  
 📌 **Tech Stack:** React, Node.js, Express, MongoDB, JWT, Chart.js  
 
-### 🤖 **Machine Learning Models & Applications**  
-**1️⃣ Bank Customer Churn Prediction**  
-- Developed a **customer churn prediction system** for banks using **seven ML models**:  
-  ✅ **Logistic Regression**  
-  ✅ **Decision Tree**  
-  ✅ **Random Forest**  
-  ✅ **Deep Learning (Neural Networks)**  
-  ✅ **KNN (K-Nearest Neighbors)**  
-  ✅ **SVM (Support Vector Machine)**  
-  ✅ **XGBoost**  
-- Handled **imbalanced data** using **SMOTE (Synthetic Minority Over-sampling Technique)**.  
-- **Deployment:** Flask-based API, hosted on Render.  
+### 🤖 **Bank Customer Churn Prediction**  
+An **ML-powered app** that predicts **customer churn for banks** using **seven ML models**. Handles **data imbalance** using SMOTE and is deployed using **Flask & Render**.  
+📌 **Tech Stack:** Scikit-learn, XGBoost, TensorFlow, Flask, Render  
 
-### 🛠️ **Automated DevOps Pipeline** (For Bank Churn Prediction App)  
-**Key Components:**  
-✔️ **Version Control**: GitHub for managing source code.  
-✔️ **CI/CD with GitHub Actions**: Automated build, test, and deployment workflow.  
-✔️ **Infrastructure as Code (IaC)**: Using **Terraform** to provision AWS services.  
-✔️ **Containerization & Orchestration**: Docker for app packaging, Kubernetes for deployment.  
-✔️ **Monitoring & Logging**: Prometheus & Grafana for real-time monitoring.  
-✔️ **Security & Compliance**: Integrated vulnerability scanning with Snyk & automated security checks.  
-📌 **Tech Stack:** GitHub Actions, Terraform, Docker, Kubernetes, AWS (EC2, EKS, S3), Prometheus, Grafana  
+### 📈 **Stock Market Prediction & Analysis**  
+A **financial data visualization tool** built with **JPMorgan Chase's Perspective** to detect **under/over-valued stocks** based on **historically weakening correlations**.  
+📌 **Tech Stack:** Python, Pandas, Perspective, React  
+
+### 📊 **Automated DevOps Pipeline for ML Models**  
+A **CI/CD pipeline** for deploying ML models using **GitHub Actions, Docker, Kubernetes, and Terraform**. Includes **monitoring with Prometheus & Grafana**.  
+📌 **Tech Stack:** GitHub Actions, Terraform, Docker, Kubernetes, AWS  
 
 ---
 
