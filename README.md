@@ -17,7 +17,7 @@
 
 ## 🛠️ Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,python,c,javascript,aws,sql,mysql,postgres,git,docker,kubernetes,terraform,tensorflow,mongodb" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,c,javascript,aws,mysql,postgres,git,docker,kubernetes,terraform,tensorflow,mongodb" />
 </p>
 
 ---
