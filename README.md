@@ -30,11 +30,7 @@ A web app that **streamlines security audits** with **real-time data visualizati
 
 ### 🤖 **Bank Customer Churn Prediction**  
 An **ML-powered app** that predicts **customer churn for banks** using **seven ML models**. Handles **data imbalance** using SMOTE and is deployed using **Flask & Render**.  
-📌 **Tech Stack:** Scikit-learn, XGBoost, TensorFlow, Flask, Render  
-
-### 📈 **Stock Market Prediction & Analysis**  
-A **financial data visualization tool** built with **JPMorgan Chase's Perspective** to detect **under/over-valued stocks** based on **historically weakening correlations**.  
-📌 **Tech Stack:** Python, Pandas, Perspective, React  
+📌 **Tech Stack:** Scikit-learn, XGBoost, TensorFlow, Flask, Render   
 
 ### 📊 **Automated DevOps Pipeline for ML Models**  
 A **CI/CD pipeline** for deploying ML models using **GitHub Actions, Docker, Kubernetes, and Terraform**. Includes **monitoring with Prometheus & Grafana**.  
