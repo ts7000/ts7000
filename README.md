@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! 👋 I'm Tanuj Singh </h1>
-<h3 align="center">🚀 Cloud Computing Enthusiast | Full-Stack Developer | ML Explorer</h3>
+<h3 align="center">🚀 Cloud Computing Enthusiast | Full-Stack Developer </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=19&pause=1000&color=F7B42C&center=true&vCenter=true&width=600&lines=Cloud+Computing+%7C+AWS+%7C+DevOps;Machine+Learning+%7C+Software+Development;Building+Scalable+and+Optimized+Systems;Always+Learning+and+Exploring+New+Technologies!" />
