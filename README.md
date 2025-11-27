@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! 👋 I'm Tanuj Singh </h1>
-<h3 align="center">🚀 Cloud Computing Enthusiast | Full-Stack Developer </h3>
+<h3 align="center">🚀 Cloud Computing Enthusiast | Full-Stack Developer | Devops </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=19&pause=1000&color=F7B42C&center=true&vCenter=true&width=600&lines=Cloud+Computing+%7C+AWS+%7C+DevOps;Machine+Learning+%7C+Software+Development;Building+Scalable+and+Optimized+Systems;Always+Learning+and+Exploring+New+Technologies!" />
@@ -10,7 +10,7 @@
 ## 💡 About Me  
 🔹 **Cloud Computing Enthusiast** with a passion for scalable and secure architectures.  
 🔹 Skilled in **Full-Stack Development, DevOps, and AI/ML Integration**.  
-🔹 Proficient in **C++, Python, C, JavaScript, AWS, SQL, and Machine Learning**.  
+🔹 Proficient in **C++, Python, JavaScript, AWS, SQL, and Machine Learning**.  
 🔹 Exploring **Cloud-Native Development, Serverless Architectures, and AI-driven Solutions**.  
 
 ---
